@@ -1,4 +1,5 @@
 ## Solution of tasks from leetcode.com
+###### ![](https://cs14035.userapi.com/c639324/v639324632/40c5a/N-pUU-6lQ8Y.jpg) 
 * [Two Sum](https://leetcode.com/problems/two-sum/description/) (Python, C++)
 * [Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) (Python, C++)
 * [Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) (Python, C++)
@@ -8,4 +9,7 @@
 * [Number Complement](https://leetcode.com/problems/number-complement/description/) (Python, C++)
 * [Keyboard Row](https://leetcode.com/problems/keyboard-row/description/) (Python, C++)
 * [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) (Python)
+###### ![](https://cs14035.userapi.com/c639324/v639324632/40c61/3wPrZc_w8Uk.jpg) 
+* [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) (Python, C++)
+###### ![](https://cs14035.userapi.com/c639324/v639324632/40c68/BdaxhlvN3js.jpg) 
 * [Valid Number](https://leetcode.com/problems/valid-number/description/) (Python)
