@@ -11,6 +11,6 @@
 * [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) (Python)
 ###### ![](https://cs14035.userapi.com/c639324/v639324632/40c61/3wPrZc_w8Uk.jpg) 
 * [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) (Python, C++)
-* [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) (Python)
+* [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) (Python, C++)
 ###### ![](https://cs14035.userapi.com/c639324/v639324632/40c68/BdaxhlvN3js.jpg) 
-* [Valid Number](https://leetcode.com/problems/valid-number/description/) (Python C++)
+* [Valid Number](https://leetcode.com/problems/valid-number/description/) (Python)
