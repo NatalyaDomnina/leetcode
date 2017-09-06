@@ -13,5 +13,6 @@
 * [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) (Python, C++)
 * [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) (Python, C++)
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) (Python, C++)
+* [Counting Bits](https://leetcode.com/problems/counting-bits/description/) (Python)
 ###### ![](https://cs14035.userapi.com/c639324/v639324632/40c68/BdaxhlvN3js.jpg) 
 * [Valid Number](https://leetcode.com/problems/valid-number/description/) (Python)
