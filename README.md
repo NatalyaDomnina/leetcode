@@ -14,6 +14,7 @@
 * [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) (Python, C++)
 * [Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) (Python, C++)
 * [Counting Bits](https://leetcode.com/problems/counting-bits/description/) (Python)
-* [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) (С++)
+* [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) (C++)
+* [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) (C++)
 ###### ![](https://cs14035.userapi.com/c639324/v639324632/40c68/BdaxhlvN3js.jpg) 
 * [Valid Number](https://leetcode.com/problems/valid-number/description/) (Python)
