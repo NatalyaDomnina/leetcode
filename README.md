@@ -16,6 +16,6 @@
 * [Counting Bits](https://leetcode.com/problems/counting-bits/description/) (Python)
 * [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) (C++)
 * [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) (C++)
-* [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) (Python? C++)
+* [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) (Python, C++)
 ###### ![](https://pp.userapi.com/c639324/v639324632/40c68/BdaxhlvN3js.jpg) 
 * [Valid Number](https://leetcode.com/problems/valid-number/description/) (Python)
