@@ -1,9 +1,9 @@
 '''
-Given a non negative integer number num. For every numbers i in 
-the range 0 ≤ i ≤ num calculate the number of 1's in their binary 
-representation and return them as an array.
-Example:
-For num = 5 you should return [0,1,1,2,1,2].
+Suppose you have a random list of people standing in a queue. 
+Each person is described by a pair of integers (h, k), where h 
+is the height of the person and k is the number of people in 
+front of this person who have a height greater than or equal 
+to h. Write an algorithm to reconstruct the queue.
 '''
 class Solution(object):
     def reconstructQueue2(self, people):
