@@ -19,5 +19,6 @@
 * [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) (Python, C++)
 * [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) (C++)
 * [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) (C++)
+* [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) (Python, C++)
 ###### ![](https://pp.userapi.com/c639324/v639324632/40c68/BdaxhlvN3js.jpg) 
 * [Valid Number](https://leetcode.com/problems/valid-number/description/) (Python)
